@@ -1,7 +1,7 @@
 const Header = () => {
   return (
-    <header>
-      <nav className="flex justify-between p-5 box-border">
+    <header className="flex justify-center">
+      <nav className="box-border flex justify-between w-3/4 p-5">
         <div className="">
           <span className="text-red-300">mulsun</span>
         </div>
